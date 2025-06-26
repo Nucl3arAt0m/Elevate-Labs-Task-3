@@ -34,4 +34,4 @@ This repository contains deliverables for Day 3 of the Elevate Labs Cybersecurit
     
 
 ## Portfolio
-This task is part of my Elevate Labs internship portfolio: [Elevate-Labs-Internship-Tasks](https://github.com/Nucl3arAtom/Elevate-Labs-Internship-Tasks).
+This task is part of my Elevate Labs internship portfolio: [Elevate-Labs-Internship-Tasks](https://github.com/Nucl3arAt0m/Elevate-Labs-Internship-Tasks).
